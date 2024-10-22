@@ -1,7 +1,7 @@
 """
 Description: Module 05 demonstration: Functions with Unit Testing
-Author: ACE Faculty
-Date: {current date}
+Author: jasleen kaur 
+Date: 22 october 2024
 Usage: To execute the unit tests: 
         From the unit_testing directory in the Terminal:
         python -m unittest -v tests/test_functions.py
